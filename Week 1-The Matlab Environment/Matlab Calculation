@@ -1,1 +1,8 @@
-# Question :
+# Question : we borrowed $1000 at a 10% annual interest rate.If we did not make payment for 2 years,and assuming there is no penalty for non payment,how much do we owe now?
+             Assign the value to variable "debt".
+
+# ANSWER
+
+borrow=1000.00
+interest=10/100
+debt=borrow*(1+interest)^2
