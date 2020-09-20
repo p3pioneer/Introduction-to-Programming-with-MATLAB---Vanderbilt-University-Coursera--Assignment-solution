@@ -29,6 +29,9 @@ else
 end
 end
  
+ 
+%% Optional SOlution to these question 
+ 
 %%function [summa, ind] = max_sum(v,n)
     % If n is greater than v return the specified values
     % Using return keyword exits the function so no further code is
